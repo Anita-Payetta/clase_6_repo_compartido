@@ -1,1 +1,2 @@
 Casos de resolución de conflictos
+1. Se resuelve conflicto sobre el archivo majinBuu aceptando ambos cambios.
